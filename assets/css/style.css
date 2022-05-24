@@ -541,10 +541,10 @@ section {
 # Services
 --------------------------------------------------------------*/
 .services .icon-box {
-  padding: 30px;
+  padding: 15px;
   position: relative;
   overflow: hidden;
-  margin: 0  0 40px 0;
+  margin: 0  0 20px 0;
   background: #fff;
   box-shadow: 0 10px 29px 0 rgba(68, 88, 144, 0.1);
   transition: all 0.3s ease-in-out;
@@ -579,6 +579,7 @@ section {
   font-size: 15px;
   line-height: 28px;
   margin-bottom: 0;
+  text-align: justify;
 }
 
 /*--------------------------------------------------------------
